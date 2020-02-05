@@ -1,0 +1,15 @@
+{
+  "usingComponents": {
+    "creative": "/pages/creative/home/home",
+    "upstage": "/pages/form/home/home",
+    "my": "/pages/my/home/home"
+  },
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "dark",
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "水滴石穿读书",
+    "navigationBarTextStyle": "black"
+  } 
+}

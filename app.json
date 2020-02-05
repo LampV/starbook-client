@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/creative/home/home",
+    "pages/creative/new_note/new_note",
+    "pages/form/home/home",
+    "pages/my/logs/logs",
+    "pages/my/home/home",
+    "pages/my/notes/notes",
+    "pages/my/favors/favors",
+    "pages/note/note"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "水滴石穿读书",
+    "navigationBarTextStyle": "black"
+  }
+}

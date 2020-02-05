@@ -1,0 +1,19 @@
+@import "colorui/main.wxss";
+@import "colorui/icon.wxss";
+.cards-container:before{
+  position: absolute;
+  background-color: #EBEBEB;
+  position: fixed;
+  height: 2rpx;
+  width: 732rpx;
+  content: " ";
+}
+.color-grey{
+  color: #666666;
+}
+.color-orange{
+  color: #cd950c;
+}
+.color-ricewhite{
+  color: #fafafb;
+}

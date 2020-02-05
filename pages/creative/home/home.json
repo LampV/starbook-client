@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "note-row": "/pages/components/note_row/note_row"
+  }
+}

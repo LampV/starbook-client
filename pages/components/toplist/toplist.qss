@@ -1,0 +1,12 @@
+.top-item:first-child .top-text{
+    color: var(--red);
+    font-size: 38rpx;
+}
+.top-item:nth-child(2) .top-text{
+    color: var(--orange);
+    font-size: 34rpx;
+}
+.top-item:nth-child(3) .top-text{
+    color: var(--yellow);
+    font-size: 30rpx;
+}

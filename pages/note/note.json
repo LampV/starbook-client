@@ -1,0 +1,11 @@
+{
+    "usingComponents": {
+
+    },
+    "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "水滴石穿读书",
+    "navigationBarTextStyle": "black"
+  }
+}

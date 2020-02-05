@@ -1,0 +1,96 @@
+{
+	"projectid": "1109989884_%E8%8B%A6%E6%B5%B7%E6%97%A0%E6%B6%AF",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": false,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": true,
+		"nodeModules": true,
+		"uploadWithSourceMap": true,
+		"uglifyFileName": true,
+		"remoteDebugLogEnable": false
+	},
+	"qqLibVersion": "1.8.0",
+	"compileType": "miniprogram",
+	"createTime": 1579960279497,
+	"accessTime": 1579960279497,
+	"packOptions": {
+		"ignore": []
+	},
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"qqappid": "1109989884",
+	"projectname": "%E8%8B%A6%E6%B5%B7%E6%97%A0%E6%B6%AF",
+	"scripts": {
+		"beforeCompile": "",
+		"beforePreview": "",
+		"beforeUpload": ""
+	},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": 0,
+					"name": "index",
+					"pathName": "pages/index/index",
+					"query": "",
+					"scene": ""
+				},
+				{
+					"id": 1,
+					"name": "note",
+					"pathName": "pages/note/note",
+					"query": "noteid=1&note_index=0",
+					"scene": ""
+				},
+				{
+					"id": -1,
+					"name": "new_note",
+					"pathName": "pages/creative/new_note/new_note",
+					"query": "",
+					"scene": ""
+				},
+				{
+					"id": -1,
+					"name": "my-notes",
+					"pathName": "pages/my/notes/notes",
+					"query": "",
+					"scene": ""
+				},
+				{
+					"id": -1,
+					"name": "my-favor",
+					"pathName": "pages/my/favors/favors",
+					"query": "",
+					"scene": ""
+				},
+				{
+					"id": -1,
+					"name": "upstage",
+					"pathName": "pages/form/home/home",
+					"query": "",
+					"scene": ""
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "note-row": "/pages/components/note_row/note_row"
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "我的笔记",
+    "navigationBarTextStyle": "black"
+  }
+}

@@ -1,0 +1,60 @@
+swiper {
+    height: 100vh;
+}
+.container {
+    width: 750rpx;
+}
+.note-container{
+    width: 100%;
+    color: #000000;
+    padding: 100rpx 50rpx 100rpx 50rpx;
+    background-color: #fafafb;
+    font-size: 40rpx;
+}
+.note-scroll{
+    width: 100%;
+    height: calc( 100vh - 205rpx);
+}
+.note-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    font-size: 44rpx;
+}
+.note-author{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36rpx;
+    margin-top: 66rpx;
+    margin-bottom: 48rpx;
+}
+.note-author-dynasty{
+    margin-right: 20rpx;
+}
+.note-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666666;
+    font-size: 38rpx;
+    margin-bottom: 24rpx;
+    letter-spacing: 2rpx;
+    text-indent: 20rpx;
+}
+.author-author{
+    display: flex;
+    justify-content: center;
+    font-size: 46rpx;
+    margin-bottom: 60rpx;
+}
+.author-author-point{
+    font-weight: bold;
+    margin: 0 20rpx;
+}
+.author-author-abstract{
+    margin-bottom: 20rpx;
+    text-indent: 60rpx;
+    font-size: 38rpx;
+}

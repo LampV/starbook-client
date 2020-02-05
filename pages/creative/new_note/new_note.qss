@@ -1,0 +1,16 @@
+.read-time-picker {
+}
+.my-canvas-show {
+    width: 375px;
+    height: 667px;
+    top: 0;
+    position: absolute;
+    z-index: 100;
+}
+.my-canvas-hide {
+    width: 375px;
+    height: 667px;
+    top: -10000px;
+    position: absolute;
+    z-index: -1;
+}

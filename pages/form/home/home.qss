@@ -1,0 +1,9 @@
+.top_swiper{
+    height: calc( 100vh - 100rpx)
+}
+.top_swiper_item{
+    height: 100%
+}
+.top_scroll{
+    height: 100%
+}
