@@ -1,2 +1,2 @@
-# PourdTea-Client
-赌书消得泼茶香——QQ小程序前端
+# starbook-client
+水滴石穿读书——QQ小程序前端
